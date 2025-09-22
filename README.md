@@ -1,5 +1,9 @@
 Hi aku amaa🌻 
-Welcome to my profile GitHub account!🎉  
+Welcome to my profile GitHub account!🎉 
+
+📚 Hal yang Lagi Aku Pelajari
+- Git & GitHub
+- Python untuk data
 
 About Me💮
 - suka banget kopi☕
